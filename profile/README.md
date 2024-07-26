@@ -12,7 +12,10 @@ With a focus on cutting-edge technology and exceptional customer service, we str
 With a user-friendly interface and exciting features, Viva Sorte provides players with an immersive gaming experience.
 
 ### Vale Sorte
-[Vale Sorte](https://valesorteparana.com.br) is another key offering from EDJ Digital, designed to revolutionize the lottery experience in the Paraná region.
+[Vale Sorte](https://valesorteparana.com.br) is another key offering from EDJ Digital, designed to revolutionize the lottery experience in the northern Paraná region.
+
+### Vale Paraná
+[Vale Paraná](https://valeparana.com.br) is a successful product running in the Paraná region.
 
 ## Connect With Us
 - Instagram: [EDJ Digital](https://www.instagram.com/edj.digital/)
