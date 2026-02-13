@@ -1,6 +1,6 @@
 # Even7
 
-Welcome to the official GitHub repository of **Even7**, a leading provider of payment and iGaming solutions based in Londrina, PR, Brazil.
+Welcome to the official GitHub repository of **Even7 Tecnologia**, a leading provider of payment and iGaming solutions based in Londrina, PR, Brazil.
 
 ## About Us
 
@@ -25,5 +25,5 @@ With a digital-first approach and innovative engagement mechanics, Pix do Milhã
 
 ## Connect With Us
 
-- Instagram: [Even7](https://www.instagram.com/edj.digital/)
-- LinkedIn: [Even7](https://www.linkedin.com/company/edjdigital/)
+- Instagram: [Even7](https://www.instagram.com/eventecnologia/)
+- LinkedIn: [Even7](https://www.linkedin.com/company/eventecnologia/)
